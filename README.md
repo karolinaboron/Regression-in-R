@@ -9,3 +9,4 @@ The materials include:
 - Detailed reports and interpretations of results
 
 Additionally, the repository contains necessary CSV files with sample data used in the above projects and reports for regression and ANOVA analysis.
+**Note**: The repository contains documentation and codes in Polish.
